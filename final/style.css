@@ -84,6 +84,13 @@ a:visited {
   border-left: 5px solid var(--color-brand--1);
 }
 
+.workout--cycling:hover{
+  background-color: orange;
+}
+.workout--running:hover{
+  background-color: #00c46a;
+  color: white !important;
+}
 .workout__title {
   font-size: 1.7rem;
   font-weight: 600;
