@@ -1,3 +1,3 @@
 # mapty
 
-## Live website: mapty-joshua-ochia.netlify.app
+## Live website: https://mapty-joshua-ochia.netlify.app
